@@ -1,4 +1,4 @@
-# playwright-login-session
+# playwright-login-session using CLI command
 This is sample repo where it shows how to manage login session
 
 1. Clone the repo
