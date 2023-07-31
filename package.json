@@ -1,0 +1,21 @@
+{
+  "name": "playwright-login-session",
+  "version": "1.0.0",
+  "description": "This is sample repo where it shows how to manage login session",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjnanda/playwright-login-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjnanda/playwright-login-session/issues"
+  },
+  "homepage": "https://github.com/kjnanda/playwright-login-session#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  }
+}
